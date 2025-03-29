@@ -1,6 +1,6 @@
 {
   "name": "@npmmaintea/glowing-broccoli",
-  "version": "14.23.303",
+  "version": "14.23.304",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -525,5 +525,5 @@
   "bugs": {
     "url": "https://github.com/npmmaintea/glowing-broccoli/issues"
   },
-  "packageManager": "yarn@4.7.0"
+  "packageManager": "yarn@4.8.0"
 }
